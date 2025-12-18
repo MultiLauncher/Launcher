@@ -1,7 +1,8 @@
 {
-    "version": "1.2.0",
+    "version": "1.3.0",
     "download_url": "http://raw.githubusercontent.com/MultiLauncher/Launcher/main/update.zip",
-    "description": "Přidány nové funkce do tweaks.py"
+    "description": "Addet more function and optimalizate aa update system"
 
 }
+
 
